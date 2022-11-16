@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1668528352 source:c:\users\gregoire.ivars\onedrive - gfi\bureau\ecole\c++\vectors\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	"Point.h"
+	<deque>
+
+1668524985 c:\users\gregoire.ivars\onedrive - gfi\bureau\ecole\c++\vectors\point.h
+	<ostream>
+
+1668521494 source:c:\users\gregoire.ivars\onedrive - gfi\bureau\ecole\c++\vectors\point.cpp
+	"pch.h"
+	"Point.h"
+	<ostream>
+	<iostream>
+
+1668521494 c:\users\gregoire.ivars\onedrive - gfi\bureau\ecole\c++\vectors\pch.h
+	"framework.h"
+
+1668521494 c:\users\gregoire.ivars\onedrive - gfi\bureau\ecole\c++\vectors\framework.h
+	<windows.h>
+
